@@ -777,12 +777,11 @@ The presentation identifies these as the active production scripts and supportin
 
 # 🖼️ Project Screenshots
 
-> Add project screenshots inside the `images/` folder.
 
 ## 🖥️ SCADA Dashboard
 
 <p align="center">
-  <img src="images/scada-dashboard.png" alt="Conveyor Vision SCADA Dashboard" width="900">
+  <img src="images/4.png" alt="Conveyor Vision SCADA Dashboard" width="900">
 </p>
 
 ---
@@ -790,7 +789,7 @@ The presentation identifies these as the active production scripts and supportin
 ## 👁️ Vision Detection
 
 <p align="center">
-  <img src="images/vision-detection.png" alt="AI Conveyor Object Detection" width="900">
+  <img src="images/2.png" alt="AI Conveyor Object Detection" width="900">
 </p>
 
 ---
@@ -798,7 +797,7 @@ The presentation identifies these as the active production scripts and supportin
 ## 🎯 Object Tracking
 
 <p align="center">
-  <img src="images/object-tracking.png" alt="ByteTrack Object Tracking" width="900">
+  <img src="images/1.png" alt="ByteTrack Object Tracking" width="900">
 </p>
 
 ---
@@ -806,7 +805,7 @@ The presentation identifies these as the active production scripts and supportin
 ## 🚨 Safety Actuation
 
 <p align="center">
-  <img src="images/safety-actuation.png" alt="Virtual PLC Safety Actuation" width="900">
+  <img src="images/3.png" alt="Virtual PLC Safety Actuation" width="900">
 </p>
 
 ---
@@ -814,7 +813,7 @@ The presentation identifies these as the active production scripts and supportin
 ## 📊 Model Evaluation
 
 <p align="center">
-  <img src="images/model-evaluation.png" alt="Model Evaluation" width="900">
+  <img src="images/2.png" alt="Model Evaluation" width="900">
 </p>
 
 ---
