@@ -823,7 +823,7 @@ The presentation identifies these as the active production scripts and supportin
 <p align="center">
 
 <a href="https://vimeo.com/1232025955">
-  <img src="images/conveyor-vision-demo.png"
+  <img src="images/AI_Conveyor_Object_Detection.png"
        alt="AI-Powered Conveyor Vision System Demo"
        width="900">
 </a>
